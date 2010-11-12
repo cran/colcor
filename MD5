@@ -1,0 +1,16 @@
+8abc25578bbf6e231e13f0578485125d *DESCRIPTION
+9fdfeb11f7ddba6f3aab9aaa6b1ac5dd *NAMESPACE
+b030af7cfa518c13810f9cc4a4a80033 *R/Alpha2Hat.R
+8da846a84bb22b4637ded1fb975190bf *R/DoubleStandardize.R
+8878fc0e7e3eb522d65dad6ff28c2c89 *R/GetColCorrelationZVals.R
+150d8ddb71d705924bf3c06a17887d0d *R/HigherCriticismColDepStat.R
+13c104539b93f76c97b6b9536dfb77fd *R/HigherCriticismNullStats.R
+5ecbe36ebe5a25318759bacefa8dbd16 *R/HigherCriticismStat.R
+64d628705578e53da485e1b3887a2766 *R/colcor-internal.R
+be1c30b635af690567ddc2c8cdfd4eb9 *man/Alpha2Hat.Rd
+1bb306f83188aa0d47f736be35c12f17 *man/DoubleStandardize.Rd
+701714bb1058f9b490adf86a2c77cb65 *man/GetColCorrelationZVals.Rd
+fb1e7397084be45ceeed879719446823 *man/HigherCriticismColDepStat.Rd
+86abf63053d161f0e31a952dc6f38f2b *man/HigherCriticismNullStats.Rd
+fabf16fe62d639b6cacb5e1756719639 *man/HigherCriticismStat.Rd
+342de24fbe0d4b4bdc39405e4566e9e7 *man/colcor-package.Rd
